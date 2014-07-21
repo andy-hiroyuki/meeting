@@ -64,3 +64,8 @@ meeting
 
 - [Abstraction Music](http://www.abstractionmusic.com/)
 
+#### ゲームミュージック
+
+- [ゲーム音楽の演奏会、コンサート情報のポータルサイト[2083WEB]](http://www.2083.jp/)
+- [今日も一曲ゲームミュージック！：So-netブログ](http://game-music-gurui.blog.so-net.ne.jp/)
+
