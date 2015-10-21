@@ -15,11 +15,14 @@ meeting
 
 - レッスンサイト
     - 本当に右も左もわからない人向け
+
 - CC0サイト
     - 作曲プロジェクトファイルも配っちゃえ
     - 動画のBGMとか、使う場面を最初に決めて作る
-− 作業用BGMサイト
+
+- 作業用BGMサイト
     - [キーワードで動画検索 作業用BGM - ニコニコ動画:GINZA](http://www.nicovideo.jp/search/%E4%BD%9C%E6%A5%AD%E7%94%A8BGM?sort=v&order=d)
+
 
 ### Tasks
 
