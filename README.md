@@ -8,6 +8,7 @@ meeting
 | フリー音楽素材サイト「音の園」 | 73 曲   |
 | 初心者向け作曲レッスンサイト   | 構想中  |
 | 著作権フリーCC0音楽素材サイト  | 構想中  |
+| 作業用BGMサイト                | 構想中  |
 
 
 ### Next
@@ -17,6 +18,8 @@ meeting
 - CC0サイト
     - 作曲プロジェクトファイルも配っちゃえ
     - 動画のBGMとか、使う場面を最初に決めて作る
+− 作業用BGMサイト
+    - [キーワードで動画検索 作業用BGM - ニコニコ動画:GINZA](http://www.nicovideo.jp/search/%E4%BD%9C%E6%A5%AD%E7%94%A8BGM?sort=v&order=d)
 
 ### Tasks
 
