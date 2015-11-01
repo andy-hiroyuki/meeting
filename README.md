@@ -20,7 +20,9 @@ meeting
 ### Next
 
 - レッスンサイト
+    - [ドットインストール](http://dotinstall.com/)
     - 本当に右も左もわからない人向け
+    - VOCALOID
 
 - CC0サイト
     - 作曲プロジェクトファイルも配っちゃえ
