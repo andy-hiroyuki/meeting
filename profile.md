@@ -30,5 +30,4 @@
 - 古代祐三
 - 梅本竜
 - YOSHIKI (X JAPAN)
-- Jordan Rudess
-- Dream Theater
+- Jordan Rudess (Drem Theater)
