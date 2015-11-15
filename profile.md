@@ -38,13 +38,13 @@
 名古屋コミュニケーションアート専門学校にてキーボードコースを卒業。卒業後、同校に残り1年講師アシストを務める。同校を辞め、バンドを始めとしたセッション活動、サポートキーボードとして数年活動するが、色々やった後に大好きなゲームミュージックのBGMを作り始める。現在は色々なクリエイターの方に使用してもらうことを目標に、日夜ゲーム音楽の曲を制作しながら主にウェブで活動中。
 
 ## 使用機材
--　DAW Apple Logic Pro 9
--　Rolnad RD-700NX 
--　M-AUDIO Firewire 410
--　SONY MDR-7506
--　FOSTEX PM0.4
+- DAW Apple Logic Pro 9
+- Rolnad RD-700NX 
+- M-AUDIO Firewire 410
+- SONY MDR-7506
+- FOSTEX PM0.4
 -　
 ## ソフト音源
--　NI Komplete ULTIMATE9
--　EW QLSO Gold
--　PS Orchestral Essentials
+- NI Komplete U9
+- EW QLSO Gold
+- PS Orchestral Essentials
