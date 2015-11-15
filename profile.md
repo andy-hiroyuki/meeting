@@ -43,7 +43,7 @@
 - M-AUDIO Firewire 410
 - SONY MDR-7506
 - FOSTEX PM0.4
--　
+
 ## ソフト音源
 - NI Komplete U9
 - EW QLSO Gold
