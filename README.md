@@ -2,6 +2,7 @@ meeting
 =======
 
 ![](./mojiro-kingdom.jpg)
+![](./business-model.png)
 
 ### 進捗状況 - 2015.11.1
 
